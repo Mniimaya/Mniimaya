@@ -24,8 +24,8 @@
 <p>
   
 <h4> Pet-проеты*<h4>
-<p>Лендинг сервиса облачного гейминга: <a href="https://mniimaya.github.io/warplay-cloud/"> warplay-cloud </a> <a href="https://github.com/Mniimaya/warplay-cloud">Репозиторий</a><br>
+<p>Лендинг сервиса облачного гейминга: <a href="https://mniimaya.github.io/warplay-cloud/"> warplay-cloud </a> / <a href="https://github.com/Mniimaya/warplay-cloud">Репозиторий</a><br>
 <p>
-<p>Интернет-магазин вязанных вещей: <a href="https://mniimaya.github.io/mishka/"> Мишка </a> <a href="https://github.com/Mniimaya/mishka">Репозиторий</a><br>
+<p>Интернет-магазин вязанных вещей: <a href="https://mniimaya.github.io/mishka/"> Мишка </a> / <a href="https://github.com/Mniimaya/mishka">Репозиторий</a><br>
 Был упор на оттачивание навыков по верствке и соблюдения pixel perfect.
 <p>
