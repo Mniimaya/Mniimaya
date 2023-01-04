@@ -8,7 +8,7 @@
   Telegram: https://t.me/mniimaya
 </p>
 <p align="left">
-  Email: <a type="mailto" href="mnimaya.job@yandex.ru">mnimaya.job@yandex.ru</a>
+  Email: <a href="mailto:mnimaya.job@yandex.ru">mnimaya.job@yandex.ru</a>
 </p>
 
 <h3 align="left">Стек:</h3>
