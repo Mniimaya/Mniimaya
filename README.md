@@ -1,6 +1,6 @@
 <h1 aling="center">Добро пожаловать в мой профиль GitHub!</h1>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36A2FF&background=B5F31C00&width=435&lines=%D0%9E+%D1%81%D0%B5%D0%B1%D0%B5.." alt="Typing SVG" /></a>
+<a><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36A2FF&width=435&lines=%D0%9E+%D1%81%D0%B5%D0%B1%D0%B5+.+.+.+" alt="Typing SVG" /></a>
 <p align="left">Меня зовут Марина. Я junior frontend разработчик. Работаю в компании flexcore, обеспечиваю автоматизацию бизнес процессов для наших клиентов путем разработки web-ресурсов.</p>
 
 <h3 align="left">Контакты:</h3>
