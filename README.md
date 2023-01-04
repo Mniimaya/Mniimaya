@@ -27,5 +27,5 @@
 <p>Лендинг сервиса облачного гейминга: <a href="https://mniimaya.github.io/warplay-cloud/"> warplay-cloud </a> / <a href="https://github.com/Mniimaya/warplay-cloud">Репозиторий</a><br>
 <p>
 <p>Интернет-магазин вязанных вещей: <a href="https://mniimaya.github.io/mishka/"> Мишка </a> / <a href="https://mniimaya.github.io/mishka/catalog.html"> Мишка-Каталог </a> / <a href="https://github.com/Mniimaya/mishka">Репозиторий</a><br>
-Был упор на оттачивание навыков по верстке, соблюдение семантическим правилам и pixel perfect.
+Был упор на оттачивание навыков по верстке, соответствие семантическим правилам и pixel perfect.
 <p>
