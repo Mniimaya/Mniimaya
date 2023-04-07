@@ -9,6 +9,20 @@
   Email: <a href="mailto:mnimaya.job@yandex.ru">mnimaya.job@yandex.ru</a>
 </p>
 <h3 align="left">Languages and Tools:</h3>
+
+- HTML(BEM)
+- CSS(Scss, CSS Modules)
+- JavaScript(TypeScript)
+- React, Next 
+- Yarn(Npm) ESLint, Babel, Prettier, Stylelint
+- Git(GitHub)
+- Redux + Redux Toolkit
+- CI, CD
+- Webpack,Gulp
+- Storybook
+- Jest, Loki
+
+
 <h3 align="left">My projects:</h3>
 <p>Лендинг сервиса облачного гейминга: <a href="https://mniimaya.github.io/warplay-cloud/"> warplay-cloud </a> / <a href="https://github.com/Mniimaya/warplay-cloud">Репозиторий</a> - HTML, SASS(SCSS), JS<br>
 <p>
