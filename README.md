@@ -1,4 +1,5 @@
-![Frame 13](https://user-images.githubusercontent.com/93405011/230589703-2372baa7-a90e-4e0e-ae4f-33c54d2699a7.png)
+
+![Frame 13](https://user-images.githubusercontent.com/93405011/230590011-d7d4cc6c-502e-4910-beba-809f309ca766.png)
 
 <h3 align="left">Контакты:</h3>
 <p align="left">
