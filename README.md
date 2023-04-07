@@ -14,13 +14,13 @@
 - CSS(Scss, CSS Modules)
 - JavaScript(TypeScript)
 - React, Next 
-- Yarn(Npm) ESLint, Babel, Prettier, Stylelint
+- Yarn(Npm)
+- ESLint, Babel, Prettier, Stylelint
 - Git(GitHub)
 - Redux + Redux Toolkit
-- CI, CD
 - Webpack,Gulp
 - Storybook
-- Jest, Loki
+- Jest
 
 
 <h3 align="left">My projects:</h3>
