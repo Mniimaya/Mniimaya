@@ -12,19 +12,17 @@
 
 - HTML(BEM)
 - CSS(Scss, CSS Modules)
-- JavaScript(TypeScript)
-- React, Next 
-- Yarn(Npm)
-- ESLint, Babel, Prettier, Stylelint
-- Git(GitHub)
-- Redux + Redux Toolkit
+- JavaScript
+- React, React Router 
+- Redux Toolkit
+- Npm
+- ESLint, Prettier, Stylelint
+- Git(GitHub, GitLab)
 - Webpack,Gulp
-- Storybook
-- Jest
 
 
 <h3 align="left">My projects:</h3>
-<p>Лендинг сервиса облачного гейминга: <a href="https://mniimaya.github.io/warplay-cloud/"> warplay-cloud </a> / <a href="https://github.com/Mniimaya/warplay-cloud">Репозиторий</a> - HTML, SASS(SCSS), JS<br>
-<p>
-<p>Интернет-магазин вязанных вещей: <a href="https://mniimaya.github.io/mishka/"> Мишка </a> / <a href="https://mniimaya.github.io/mishka/catalog.html"> Мишка-Каталог </a> / <a href="https://github.com/Mniimaya/mishka">Репозиторий</a> - HTML, SASS(SCSS), JS</br>
-<p>
+<p>Лендинг сервиса облачного гейминга: <a href="https://mniimaya.github.io/warplay-cloud/"> warplay-cloud </a> - HTML, SASS(SCSS), JS<br></p>
+<p>Магазин тактической одежды и снаряжения: <a href="https://mniimaya.github.io/mishka/](https://militant.ru"> Милитант </a> - Коммерческий проект</br></p>
+<p>Магазин сантехники и товаров для дома <a href="https://torgberu.ru"> Торг Беру </a> - Коммерческий проект</br></p>
+<p>Интернет-магазин вязанных вещей: <a href="https://mniimaya.github.io/mishka/"> Мишка </a> - HTML, SASS(SCSS), JS</br></p>
