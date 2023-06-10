@@ -23,6 +23,6 @@
 
 <h3 align="left">My projects:</h3>
 <p>Лендинг сервиса облачного гейминга: <a href="https://warplay-cloud-react-puqhhd48f-mniimaya.vercel.app"> warplay-cloud </a> - React, Redux Toolkit :watch:<br></p>
-<p>Магазин тактической одежды и снаряжения: <a href="https://mniimaya.github.io/mishka/](https://militant.ru"> Милитант </a> - Коммерческий проект</br></p>
+<p>Магазин тактической одежды и снаряжения: <a href="https://militant.ru"> Милитант </a> - Коммерческий проект</br></p>
 <p>Магазин сантехники и товаров для дома <a href="https://torgberu.ru"> Торг Беру </a> - Коммерческий проект</br></p>
 <p>Интернет-магазин вязанных вещей: <a href="https://mniimaya.github.io/mishka/"> Мишка </a> - SASS(SCSS), JS</br></p>
