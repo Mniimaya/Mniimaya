@@ -15,7 +15,7 @@
 
 - HTML(BEM)
 - CSS(Scss, CSS Modules)
-- JavaScript
+- JavaScript, TypeScript
 - React, React Router 
 - Redux Toolkit
 - Npm
