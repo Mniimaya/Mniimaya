@@ -3,7 +3,7 @@
 ![Group 8](https://github.com/Mniimaya/Mniimaya/assets/93405011/b27b6e0f-d3f9-4e2a-a43f-cbc164ac6fc9)
 
 
-<h3 align="left">About me:</h3>
+
 <h3 align="left">Contacts:</h3>
 <p align="left">
   Telegram: https://t.me/mniimaya
