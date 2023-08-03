@@ -16,8 +16,6 @@
 - HTML(BEM)
 - CSS(Scss, CSS Modules)
 - JavaScript, TypeScript
-- React, React Router 
-- Redux Toolkit
 - Npm
 - ESLint, Prettier, Stylelint
 - Git(GitHub, GitLab)
