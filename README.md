@@ -14,12 +14,17 @@
 <h3 align="left">Languages and Tools:</h3>
 
 - HTML(BEM)
-- CSS(Scss, CSS Modules)
-- JavaScript, TypeScript
-- Npm
-- ESLint, Prettier, Stylelint
-- Git(GitHub, GitLab)
-- Webpack,Gulp
+- CSS(SCSS, CSS Modules)
+- JavaScript(TypeScript)
+- React
+- Redux Toolkit
+- Jest
+- NPM
+- ESLint, Babel, Prettier, Stylelint
+- Git
+- Webpack
+- Storybook
+
 
 
 <h3 align="left">My projects:</h3>
