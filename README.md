@@ -14,16 +14,14 @@
 <h3 align="left">Languages and Tools:</h3>
 
 - HTML(BEM)
-- CSS(SCSS, CSS Modules)
+- CSS(SCSS, Modules)
 - JavaScript(TypeScript)
 - React
 - Redux Toolkit
-- Jest
 - NPM
 - ESLint, Babel, Prettier, Stylelint
 - Git
 - Webpack
-- Storybook
 
 
 
