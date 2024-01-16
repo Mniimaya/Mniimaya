@@ -15,10 +15,7 @@
 
 - JavaScript, TypeScript
 - React, React Hooks, React Router, React Hook Form, Formik, Redux toolkit
-- Написание REST API на Nest.js (CRUD), Swagger, Postman, nginx, pgAdmin
-- Работа с ассинхроностью
-- Адаптивная кроссбраузерная верстка, семантика, доступность
-- Отличное понимание CSS, обдуманное применение grid/flex, SCSS. Любовь к вёрстке. 
+- REST API на Nest.js (CRUD), Swagger, Postman, nginx, pgAdmin
 - Webpack, Vite, npm
 - Git
 - Figma
