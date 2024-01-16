@@ -13,15 +13,15 @@
 </p>
 <h3 align="left">Languages and Tools:</h3>
 
-- HTML(BEM)
-- CSS(SCSS, Modules)
-- JavaScript(TypeScript)
-- React
-- Redux Toolkit
-- NPM
-- ESLint, Babel, Prettier, Stylelint
+- JavaScript, TypeScript
+- React, React Hooks, React Router, React Hook Form, Formik, Redux toolkit
+- Написание REST API на Nest.js (CRUD), Swagger, Postman, nginx, pgAdmin
+- Работа с ассинхроностью
+- Адаптивная кроссбраузерная верстка, семантика, доступность
+- Отличное понимание CSS, обдуманное применение grid/flex, SCSS. Любовь к вёрстке. 
+- Webpack, Vite, npm
 - Git
-- Webpack
+- Figma
 
 
 
