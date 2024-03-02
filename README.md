@@ -1,7 +1,7 @@
 
 <!-- ![Frame 13](https://user-images.githubusercontent.com/93405011/230590011-d7d4cc6c-502e-4910-beba-809f309ca766.png) -->
-![Group 8](https://github.com/Mniimaya/Mniimaya/assets/93405011/78a8c8da-98c5-480b-ab73-b6690fce26d3)
 
+![Group 8](https://github.com/Mniimaya/Mniimaya/assets/93405011/7cee33ba-280c-42d1-b4d9-6c4a01776e30)
 
 
 
