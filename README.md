@@ -13,14 +13,6 @@
 <p align="left">
   Email: <a href="mailto:mnimaya.job@yandex.ru">mnimaya.job@yandex.ru</a>
 </p>
-<h3 align="left">Languages and Tools:</h3>
-
-- JavaScript, TypeScript
-- React, React Hooks, React Router, React Hook Form, Formik, Redux toolkit
-- REST API на Nest.js (CRUD), Swagger, Postman, nginx, pgAdmin
-- Webpack, Vite, npm
-- Git
-- Figma
 
 
 
