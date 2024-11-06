@@ -13,7 +13,7 @@
 <p align="left">
   Email: <a href="mailto:mnimaya.job@yandex.ru">mnimaya.job@yandex.ru</a>
 </p>
- ![Profile View Counter](https://komarev.com/ghpvc/?username=/Mniimaya)
+ ![](https://komarev.com/ghpvc/?username=Mniimaya)
 
 
 
